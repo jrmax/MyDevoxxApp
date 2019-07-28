@@ -167,7 +167,7 @@ ecf/
 rcf/
 
 # Microsoft Azure ApplicationInsights config file
-ApplicationInsights.config
+# ApplicationInsights.config
 
 # Windows Store app package directory
 AppPackages/
@@ -243,4 +243,4 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
-/MyDevoxx/Package.StoreAssociation.xml
+# /MyDevoxx/Package.StoreAssociation.xml
