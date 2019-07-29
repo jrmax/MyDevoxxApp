@@ -6,3 +6,4 @@ This was the official Windows Phone App for Devoxx Conferences 2015 and 2016. It
 
 ## Setup
 Just get the code, open it in [Visual Studio 2015](https://www.visualstudio.com/) (Community Edtion is enough) and start coding.
+You will need to install a Windows Mobile Emulator to test the app.
